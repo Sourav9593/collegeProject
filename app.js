@@ -133,6 +133,7 @@ document.getElementById("bones").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("believer").addEventListener("click",()=>{
@@ -140,6 +141,7 @@ document.getElementById("believer").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("cold").addEventListener("click",()=>{
@@ -147,6 +149,7 @@ document.getElementById("cold").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("cradles").addEventListener("click",()=>{
@@ -154,6 +157,7 @@ document.getElementById("cradles").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("despacito").addEventListener("click",()=>{
@@ -161,6 +165,7 @@ document.getElementById("despacito").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("faded").addEventListener("click",()=>{
@@ -168,6 +173,7 @@ document.getElementById("faded").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("shape").addEventListener("click",()=>{
@@ -175,6 +181,7 @@ document.getElementById("shape").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("letme").addEventListener("click",()=>{
@@ -182,6 +189,7 @@ document.getElementById("letme").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("playDate").addEventListener("click",()=>{
@@ -189,6 +197,7 @@ document.getElementById("playDate").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("unholy").addEventListener("click",()=>{
@@ -196,6 +205,7 @@ document.getElementById("unholy").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("gangnam").addEventListener("click",()=>{
@@ -203,6 +213,7 @@ document.getElementById("gangnam").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("letmeloveyou").addEventListener("click",()=>{
@@ -210,6 +221,7 @@ document.getElementById("letmeloveyou").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 
@@ -220,6 +232,7 @@ document.getElementById("one").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("two").addEventListener("click",()=>{
@@ -227,6 +240,7 @@ document.getElementById("two").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("three").addEventListener("click",()=>{
@@ -234,6 +248,7 @@ document.getElementById("three").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("four").addEventListener("click",()=>{
@@ -241,6 +256,7 @@ document.getElementById("four").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("five").addEventListener("click",()=>{
@@ -248,6 +264,7 @@ document.getElementById("five").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("six").addEventListener("click",()=>{
@@ -255,6 +272,7 @@ document.getElementById("six").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("seven").addEventListener("click",()=>{
@@ -262,6 +280,7 @@ document.getElementById("seven").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("eight").addEventListener("click",()=>{
@@ -269,6 +288,7 @@ document.getElementById("eight").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("nine").addEventListener("click",()=>{
@@ -276,6 +296,7 @@ document.getElementById("nine").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("ten").addEventListener("click",()=>{
@@ -283,6 +304,7 @@ document.getElementById("ten").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("eleven").addEventListener("click",()=>{
@@ -290,6 +312,7 @@ document.getElementById("eleven").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 document.getElementById("twelve").addEventListener("click",()=>{
@@ -297,6 +320,7 @@ document.getElementById("twelve").addEventListener("click",()=>{
     song.play()
     isPlay=true
     play.classList.replace('fa-play','fa-pause');
+    body.style.display="block"
     body.classList.add('animate');
 })
 
